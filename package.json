@@ -1,0 +1,14 @@
+{
+  "name": "expo-bump",
+  "version": "1.0.0",
+  "description": "Bump exp.json or app.json via CLI",
+  "main": "index.js",
+  "author": "Giau Tran Minh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "meow": "^3.7.0",
+    "semver": "^5.3.0",
+    "shell-quote": "^1.6.1"
+  }
+}
